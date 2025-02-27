@@ -33,8 +33,9 @@ This repository highlights technical proficiency in SQL, data analysis, and visu
 - **Tableau Visualization**: Presenting insights through interactive dashboards.  
 - **Business Problem-Solving**: Answering real-world content distribution questions.  
 
-
 ---
+
+## 📂 Repository Contents  
 
 | File Name | Description |  
 |-----------|------------|  
@@ -105,4 +106,5 @@ It provides valuable insights into **Netflix's global content distribution, genr
 📧 Email: [mezmure221@gmail.com](mailto:mezmure221@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/mezmure-dawit](https://www.linkedin.com/in/mezmure-dawit/)  
 🔗 GitHub: [github.com/MezD-dev](https://github.com/MezD-dev)  
+📊 Tableau Public (Netflix WatchMap): [View on Tableau Public](https://public.tableau.com/app/profile/mezmure.dawit2832/viz/Book1_17404480063310/Netflix)  
 
