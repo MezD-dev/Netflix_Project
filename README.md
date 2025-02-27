@@ -1,4 +1,5 @@
 # 🎬 Netflix WatchMap: Global Trends & Content Analytics
+![Netflix_logo](https://github.com/user-attachments/assets/bfda518c-a29b-42ef-8351-e2b63f2716b5)
 
 ---
 
