@@ -41,8 +41,10 @@ This repository highlights technical proficiency in SQL, data analysis, and visu
 | File Name | Description |  
 |-----------|------------|  
 | `netflix_titles.csv` | The dataset containing Netflix’s movie and TV show details. |  
+| `Create_Schemas.sql` | SQL script for creating database schemas. |  
 | `Netflix_Business_Problems.sql` | SQL queries for solving 15 key Netflix business questions. |  
 | `Netflix Dashboard.twb` | Tableau workbook containing interactive visualizations. |  
+
 
 ---
 
