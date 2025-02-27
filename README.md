@@ -2,15 +2,15 @@
 
 ---
 
-## 📖 Table of Contents
-- [🔍 Project Overview](#-project-overview)
-- [🛠 Skills Demonstrated](#-skills-demonstrated)
-- [📂 Repository Contents](#-repository-contents)
-- [📊 Key Insights & Findings](#-key-insights--findings)
-- [🚀 How to Use This Repository](#-how-to-use-this-repository)
-- [🏆 Why This Project is Valuable](#-why-this-project-is-valuable)
-- [📊 Data Source](#-data-source)
-- [📌 Author & Contact](#-author--contact)
+## 📖 Table of Contents  
+- [🔍 Project Overview](#-project-overview)  
+- [🛠 Skills Demonstrated](#-skills-demonstrated)  
+- [📂 Repository Contents](#-repository-contents)  
+- [📊 Key Insights & Findings](#-key-insights--findings)  
+- [🚀 How to Use This Repository](#-how-to-use-this-repository)  
+- [🏆 Why This Project is Valuable](#-why-this-project-is-valuable)  
+- [📊 Data Source](#-data-source)  
+- [📌 Author & Contact](#-author--contact)  
 
 ---
 
@@ -23,23 +23,24 @@ This repository highlights technical proficiency in SQL, data analysis, and visu
 
 ---
 
-## 🛠 **Skills Demonstrated**
-- **SQL Querying**: Aggregations, filtering, ranking, and transformations.
-- **PostgreSQL Functions**: STRING_TO_ARRAY(), UNNEST(), RANK(), and SPLIT_PART().
-- **Data Cleaning & Processing**: Handling missing values and ensuring data consistency.
-- **Joins & Aggregates**: Extracting insights from structured data.
-- **CTEs & Window Functions**: Ranking and categorizing Netflix content.
-- **Tableau Visualization**: Presenting insights through interactive dashboards.
-- **Business Problem-Solving**: Answering real-world content distribution questions.
+## 🛠 Skills Demonstrated  
+
+- **SQL Querying**: Aggregations, filtering, ranking, and transformations.  
+- **PostgreSQL Functions**: `STRING_TO_ARRAY()`, `UNNEST()`, `RANK()`, and `SPLIT_PART()`.  
+- **Data Cleaning & Processing**: Handling missing values and ensuring data consistency.  
+- **Joins & Aggregates**: Extracting insights from structured data.  
+- **CTEs & Window Functions**: Ranking and categorizing Netflix content.  
+- **Tableau Visualization**: Presenting insights through interactive dashboards.  
+- **Business Problem-Solving**: Answering real-world content distribution questions.  
+
 
 ---
 
-## 📂 **Repository Contents**
-| File Name | Description |
-|-----------|------------|
-| `netflix_titles.csv	` | The dataset containing Netflix’s movie and TV show details. |
-| `Netflix_Business_Problems.sql` | Aggregated global statistics on COVID-19 cases, deaths, and mortality rates. |
-| `Netflix Dashboard.twb` | Tableau workbook containing interactive visualizations. |
+| File Name | Description |  
+|-----------|------------|  
+| `netflix_titles.csv` | The dataset containing Netflix’s movie and TV show details. |  
+| `Netflix_Business_Problems.sql` | SQL queries for solving 15 key Netflix business questions. |  
+| `Netflix Dashboard.twb` | Tableau workbook containing interactive visualizations. |  
 
 ---
 
@@ -85,21 +86,23 @@ This repository highlights technical proficiency in SQL, data analysis, and visu
 
 ---
 
-## 📊 Data Source
-The dataset used in this project is sourced from **Kaggle**:
+## 📊 Data Source  
 
-📌 [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+📌 [Netflix Movies and TV Shows Dataset – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
 
-This dataset contains key details about Netflix’s streaming content, including:
-**Title, Genre, Country, Director, Cast, Release Year, Ratings, Duration, and Description**
+This dataset contains key details about Netflix’s streaming content, including:  
 
-It provides valuable insights into Netflix's **global content distribution, genre popularity, and streaming trends over time**.
+- **Title, Genre, Country, Director, Cast, Release Year, Ratings, Duration, and Description**  
+
+It provides valuable insights into **Netflix's global content distribution, genre popularity, and streaming trends over time**.  
 
 ---
 
-## 📌 **Author & Contact**
+## 📌 Author & Contact  
+
 **👤 Mezmure Dawit**  
 
 📧 Email: [mezmure221@gmail.com](mailto:mezmure221@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/mezmure-dawit](https://www.linkedin.com/in/mezmure-dawit/)  
-🔗 GitHub: [github.com/MezD-dev](https://github.com/MezD-dev) 
+🔗 GitHub: [github.com/MezD-dev](https://github.com/MezD-dev)  
+
